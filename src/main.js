@@ -10,6 +10,7 @@ import mintUI from 'mint-ui'
 import 'mint-ui/lib/style.min.css'
 import '../static/hello-mui/css/mui.min.css'
 import '../static/hello-mui/css/icons-extra.css'
+import '../static/css/site.css'
 
 Vue.use(mintUI)
 Vue.use(resource)
